@@ -1,4 +1,4 @@
-import pandas as pandas
+import pandas as pd
 def generateAI():
      dataset=pd,read_csv('data.csv')
 
